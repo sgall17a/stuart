@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BC237
+D Vce 50V, Ic 100mA, NPN Epitaxial Silicon Transistor, TO-92
+K NPN Epitaxial Silicon Transistor
+F http://www.onsemi.com/pub_link/Collateral/BC237-D.PDF
+$ENDCMP
+#
+$CMP NPN_T0-92
+D Vce 50V, Ic 100mA, NPN Epitaxial Silicon Transistor, TO-92
+K NPN Epitaxial Silicon Transistor
+F http://www.onsemi.com/pub_link/Collateral/BC237-D.PDF
+$ENDCMP
+#
+#End Doc Library
